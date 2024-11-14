@@ -21,5 +21,6 @@ link quickstart : https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_sn
 # Lesson Result
 1.   Cloning one table to another table using Clone function. For example, clone table truck_food to truck_food_dev.
 2.   Update the Table with alter table, add or drop column. Add new column with concat query from another column. It's convenient way to merge or combine more than one column.
-3.   
+3.   It's Convenient for rollback from a mistake on the Update statement earlier (update or delete). The way is check query_id from information schema. Replace the table with previous data using query replace before statement query_id.
+4.   Table swap , drop and undrop table if we made a drop mistake.
 
