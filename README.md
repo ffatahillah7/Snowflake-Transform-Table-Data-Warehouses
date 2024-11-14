@@ -19,4 +19,7 @@ link quickstart : https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_sn
 3.  A New Column in a Table Complete with Calculated Food Truck Ages in Years
 
 # Lesson Result
+1.   Cloning one table to another table using Clone function. For example, clone table truck_food to truck_food_dev.
+2.   Update the Table with alter table, add or drop column. Add new column with concat query from another column. It's convenient way to merge or combine more than one column.
+3.   
 
