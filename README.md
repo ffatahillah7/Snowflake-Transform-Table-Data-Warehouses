@@ -3,6 +3,8 @@ Welcome to the Powered by Tasty Bytes - Zero to Snowflake Quickstart focused on 
 
 # Prerequisites
 Before beginning, please make sure you have completed the Introduction to Tasty Bytes Quickstart which provides a walkthrough on setting up a trial account and deploying the Tasty Bytes Foundation required to complete this Quickstart.
+link quickstart : https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_transformation/index.html?index=..%2F..index#0
+
 # What You Will Learn
 1.  How to Clone a Table
 2.  How to Use Snowflake's Result Set Cache
